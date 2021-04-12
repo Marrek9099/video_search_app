@@ -33,7 +33,7 @@ export default () => {
 
     
     useEffect(() => {
-        onTermChange('Battle for Azeroth');
+        onTermChange('buildings');
     }, []);
      
     return (
