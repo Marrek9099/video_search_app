@@ -16,7 +16,7 @@ export default () => {
             params: {
                 part: 'snippet',
                 maxResults: '5',
-                key: 'AIzaSyBYOm4jpsO-TSwZ61-Wl8FOlaqKbRnZV4g',
+                key: 'Afwefwfwefw',
                 q: term
            }
         });
